@@ -30,24 +30,21 @@ To get started, download the latest `.exe` installer from the [Releases](https:/
 ## 📸 Screenshots (صور التطبيق)
 
 <p align="center">
-  <img src="assets/image1.png" width="400" alt="Hader Teachers Interface" />
-  <img src="assets/image2.png" width="400" alt="Attendance Management" />
+  <img src="assets/image0.png" width="400" alt="Hader Teachers Interface" />
+  <img src="assets/image1.png" width="400" alt="Attendance Management" />
 </p>
 
 <details>
   <summary align="center"><b>View More Screenshots (عرض المزيد من الصور)</b></summary>
   <p align="center">
+    <img src="assets/image2.png" width="400" />
     <img src="assets/image3.png" width="400" />
+    <br />
     <img src="assets/image4.png" width="400" />
-    <br />
     <img src="assets/image5.png" width="400" />
+    <br />
     <img src="assets/image6.png" width="400" />
-    <br />
     <img src="assets/image7.png" width="400" />
-    <img src="assets/image8.png" width="400" />
-    <br />
-    <img src="assets/image9.png" width="400" />
-    <img src="assets/image10.png" width="400" />
   </p>
 </details>
 
